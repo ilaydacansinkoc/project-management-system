@@ -1,5 +1,4 @@
-# project-management-system
-CENG 431 HW#1
+# Mediator Design Pattern
 
 You should fulfill the concepts of;
 
